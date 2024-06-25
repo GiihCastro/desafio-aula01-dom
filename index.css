@@ -1,0 +1,36 @@
+ body {
+  margin: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+    
+input[type="number"] {
+  width: 100px;
+  padding: 8px 20px;
+  font-size: 16px;
+}
+    
+button {
+  padding: 8px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: #97dab5;
+}
+
+button:hover {
+  background-color: #6ea386
+}
+
+p {
+  font-size: 18px;
+  margin-top: 20px;
+}
